@@ -1,0 +1,12 @@
+
+500	MD	https://rea.staging.referralexchange.com/agents/profile/rebecca-ward-2
+404	WI	https://rea.staging.referralexchange.com/agents/profile/andrea-potterton-1
+404	WI	https://rea.staging.referralexchange.com/agent/alexander-slobodsky-wi
+500	TN	https://rea.staging.referralexchange.com/agents/profile/germã¡n-castro-1
+404	AR	https://rea.staging.referralexchange.com/agents/profile/auction.com-service-21
+404	WV	https://rea.staging.referralexchange.com/agent/jason-cavender-wv
+SuperSecr:tP!3#11
+404	WI	https://rea.staging.referralexchange.com/agent/alexander-slobodsky-wi
+500	TN	https://rea.staging.referralexchange.com/agents/profile/germã¡n-castro-1
+404	AR	https://rea.staging.referralexchange.com/agents/profile/auction.com-service-21
+404	WV	https://rea.staging.referralexchange.com/agent/jason-cavender-wv
