@@ -57,7 +57,6 @@ dest_instance_port = dest_instances[0]["Endpoint"]["Port"]
 dest_engine = get_engine(
     admin_user, admin_password, f"{dest_instance_endpoint}:{dest_instance_port}"
 )
-password = "SuperS3cr:tP!3#11"
 # Source connectivity Info
 source_cluster = [
     l
